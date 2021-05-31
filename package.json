@@ -1,0 +1,11 @@
+{
+  "name": "binary-calculator",
+  "version": "1.0.0",
+  "description": "a simple javscript project for addition, substraction, multiplication, division on binary numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avinash shinde",
+  "license": "ISC"
+}
